@@ -1,4 +1,4 @@
-# Favorite Labs
+# My Favorite Labs
 My name is Miguel Acevedo and I am a student at Cal State Fullerton, majoring in Computer Science.
 
 
